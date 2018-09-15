@@ -1,0 +1,6 @@
+token=NDg3ODg2MDc3NTc1NjkyMjk4.Dn8cAQ.0CzyNuHyuqbIe_ZyBqLzA7xRi1c
+owner=416817521321181184
+prefix=w
+game=Tybe whelp
+stayinchannel=true
+songinstatus=true
